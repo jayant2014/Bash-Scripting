@@ -1,0 +1,5 @@
+total 8
+-rw-r--r--  1 jayantparida  staff   0 May 21 06:57 myout.txt
+-rwxr-xr-x  1 jayantparida  staff  62 May 21 06:57 redirection.sh
+-rwxr-xr-x  1 jayantparida  staff   0 May 19 21:01 stdio.sh
+More logs
