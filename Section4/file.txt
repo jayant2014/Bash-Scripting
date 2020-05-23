@@ -1,0 +1,19 @@
+total 136
+-rwxr-xr-x  1 jayantparida  staff  100 May 21 06:05 break.sh
+-rwxr-xr-x  1 jayantparida  staff  209 May 19 06:29 comments.sh
+-rwxr-xr-x  1 jayantparida  staff  141 May 19 14:20 conditionals_and.sh
+-rwxr-xr-x  1 jayantparida  staff   66 May 19 14:16 conditionals_if.sh
+-rwxr-xr-x  1 jayantparida  staff  133 May 19 14:19 conditionals_if_elif.sh
+-rwxr-xr-x  1 jayantparida  staff   90 May 19 14:17 conditionals_if_else.sh
+-rwxr-xr-x  1 jayantparida  staff  141 May 19 14:19 conditionals_or.sh
+-rwxr-xr-x  1 jayantparida  staff  119 May 21 06:07 continue.sh
+-rw-r--r--  1 jayantparida  staff    0 May 22 07:38 file.txt
+-rw-r--r--  1 jayantparida  staff   48 May 22 07:10 foo.txt
+-rwxr-xr-x  1 jayantparida  staff   94 May 20 06:48 forloop.sh
+-rwxr-xr-x  1 jayantparida  staff  543 May 21 10:25 numbers_arithmatics.sh
+-rwxr-xr-x  1 jayantparida  staff  226 May 22 07:20 stdio.sh
+-rwxr-xr-x  1 jayantparida  staff   76 May 22 07:12 stdio_file.sh
+-rwxr-xr-x  1 jayantparida  staff   67 May 22 07:38 stdout.sh
+-rwxr-xr-x  1 jayantparida  staff  264 May 21 10:24 string_processing.sh
+-rwxr-xr-x  1 jayantparida  staff   85 May 20 06:58 untilloop.sh
+-rwxr-xr-x  1 jayantparida  staff   85 May 20 06:55 whileloop.sh
