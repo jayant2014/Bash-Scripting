@@ -3,7 +3,7 @@
 # Using grep in a script
 logfile="testlog.log"
 pattern=testserver
-
+: '
 # Check a matching pattern
 if grep -q $pattern $logfile
 then
@@ -11,7 +11,7 @@ then
 else
     echo "No Match"
 fi
-
+'
 # Printing a line not containing the matched pattern
 #grep -v $pattern $logfile
 
@@ -25,4 +25,4 @@ fi
 #grep -B1 $pattern $logfile
 
 # Printing a line before and after the matched pattern
-#grep -A1 -B1 $pattern $logfile
+grep -A1 -B1 $pattern $logfile

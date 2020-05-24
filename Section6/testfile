@@ -1,0 +1,5 @@
+root:*:0:0:System Administrator:/var/root:/bin/sh
+daemon:*:1:1:System Services:/var/root:/usr/bin/false
+testuser:*:1:1:test user:/home/testuser:/bin/bash
+testuser home directory does not exist
+Hello root user

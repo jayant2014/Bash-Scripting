@@ -1,0 +1,12 @@
+Jul 17 22:04:25 router  dnsprobe[276]: dns query failed
+Jul 17 22:04:29 router last message repeated 2 times
+Jul 17 22:04:29 router  dnsprobe[276]: Primary DNS server Is Down... Switching To Secondary DNS server
+Jul 17 22:04:29 router  Investigating testserver
+Jul 17 22:05:08 router  dnsprobe[276]: Switching Back To Primary DNS server
+Jul 17 22:26:11 debian -- MARK --
+Jul 17 22:46:11 debian -- MARK --
+Jul 17 22:47:36 router  -- MARK --
+Jul 17 22:47:36 router  Testserver not found
+Jul 17 22:47:36 router  dnsprobe[276]: dns query failed
+Jul 17 22:47:38  debian kernel: rtc: lost some interrupts at 1024Hz.
+Jun 17 22:47:39  debian kernel: IN=eth0 OUT= MAC=00:0f:ea:91:04:07:00:08:5c:00:00:01:08:00 SRC=61.4.218.24 DST=192.168.1.100 LEN=60 TOS=0x00 PREC=0x00 TTL=46 ID=21599 DF PROTO=TCP SPT=59297 DPT=22 WINDOW=5840 RES=0x00 SYN URGP=0
