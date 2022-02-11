@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Cloud you please help to understand more.
 function mylog() {
     echo -e "$1" | tee -a $LOGFILE    
 }
